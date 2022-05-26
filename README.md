@@ -38,3 +38,5 @@ This is the result of comparison between haarcascade frontalface default and haa
 ![Result 1](result-detection-default.jpg)
 
 with the same parameters, haarcascade frontalface default has lower false negatives than the haarcascade frontalface alt
+
+source image = https://www.portalkuningan.com/wp-content/uploads/5-foto-studio.png
