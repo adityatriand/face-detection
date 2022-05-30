@@ -1,12 +1,12 @@
 # Face Detection With OpenCV Python
 Simple face detection using opencv in python
 
-##Installation
+## Installation
 just clone this repo with this argument
 ```bash
 git clone https://github.com/adityatriand/face-detection.git
 ```
-##Attribute
+## Attribute
 I use cascade classifier to detect a face from image. In this repo, i try to compare between haarcascade frontalface default and haarcascade frontalface alt. For parameter, i use scaleFactor and minNeighbor. For library i use cv2 and numpy.
 ```python
 #for library
@@ -27,7 +27,7 @@ scaleFactor – Parameter specifying how much the image size is reduced at each 
 
 minNeigbors - Parameter specifying how many neighbors each candidate rectangle should have to retain it. This parameter will affect the quality of the detected faces. Higher value results in less detections but with higher quality.
 
-##Result
+## Result
 
 This is the result of comparison between haarcascade frontalface default and haarcascade frontalface alt
 
